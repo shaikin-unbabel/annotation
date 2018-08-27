@@ -1,3 +1,4 @@
+# Instruction
 1. Download Java SDK from this link http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html
 2. Install Java SDK
 3. In the Environment Variables create new system variable with variable name "JAVA_HOME" and variable value c:\Program Files\Java\jdk-9.0.4\ (in your case value will be place where you install Java SDK)
@@ -21,3 +22,5 @@ Gradle 4.9
 ------------------------------------------------------------
 6. Clone repository to the local machine or download repository to the local machine and unpack 
 7. Open a Windows command prompt from your place  where you clone repository (for example c:\annotation\) and run "gradlew test" (for example c:\annotation>gradlew test)
+# Load file
+JMeter test-suite is called "load_test.jmx"
