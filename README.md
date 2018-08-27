@@ -19,5 +19,5 @@ $ gradle -v
 ------------------------------------------------------------
 Gradle 4.9
 ------------------------------------------------------------
-6. Clone repository to the local machine
+6. Clone repository to the local machine or download repository to the local machine and unpack 
 7. Open a Windows command prompt from your place  where you clone repository (for example c:\annotation\) and run "gradlew test" (for example c:\annotation>gradlew test)
